@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niyaz Ahmed, Co-founder of Undisputed, Mentor & Co-Chair  at BFSC
 - 👀 I’m interested in AI & ML 
 - 🌱 I’m currently learning GEN AI & its applications
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on different AI related projects
 - 📫 How to reach me : Mail - real.niyaz2023@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Instagram: @iamniyaz14, Linkedin: @niyazahmedofficial
