@@ -1,6 +1,6 @@
 # Hi, I'm Niyaz Ahmed 👋
 
-### AI Systems Designer | Co-Founder @ Undisputed | Founder @ Triarch Group | Data Science Engineer | Published Researcher
+### AI Systems Designer | Co-Owner @ Triarch Group | Data Science Engineer | Published Researcher
 
 I build technology that solves real-world problems.
 
@@ -36,8 +36,7 @@ My research interests include:
 
 ## 💼 Experience & Leadership
 
-* Founder & Director — Triarch Group
-* Co-Founder — Undisputed
+* Co-Owner — Triarch Group
 * Mentor & Co-Chair — BFSC
 * Former Design Marketing Head — Mannan Club (AI & DS Department)
 * Growth Marketing & Product Strategy Professional
