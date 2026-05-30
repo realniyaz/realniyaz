@@ -59,12 +59,8 @@ My multidisciplinary background in technology, marketing, design, and product st
 
 ### Development & Design
 
-* HTML
-* CSS
-* JavaScript
+* Typescript
 * UI/UX Design
-* Figma
-* PowerPoint
 
 ### Tools & Platforms
 
