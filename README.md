@@ -1,6 +1,6 @@
 # Hi, I'm Niyaz Ahmed 👋
 
-### AI Systems Designer | Co-Owner @ Triarch Group | Data Science Engineer | Published Researcher
+### Software Technical Lead | @ P2P Softwares | Co-Owner @ Triarch Group | Published Researcher
 
 I build technology that solves real-world problems.
 
@@ -31,17 +31,6 @@ My research interests include:
 * Career Intelligence Platforms
 * Machine Learning Applications
 * Human-Centered AI
-
----
-
-## 💼 Experience & Leadership
-
-* Co-Owner — Triarch Group
-* Mentor & Co-Chair — BFSC
-* Former Design Marketing Head — Mannan Club (AI & DS Department)
-* Growth Marketing & Product Strategy Professional
-
-My multidisciplinary background in technology, marketing, design, and product strategy enables me to build solutions that are both technically robust and user-centric.
 
 ---
 
@@ -96,7 +85,7 @@ My multidisciplinary background in technology, marketing, design, and product st
 
 ## 📫 Connect With Me
 
-📧 Email: [real.niyaz2023@gmail.com](mailto:real.niyaz2023@gmail.com)
+📧 Email: [contact.niyazahmed@gmail.com](mailto:contact.niyazahmed@gmail.com)
 
 📷 Instagram: @iamniyaz14
 
